@@ -10,7 +10,7 @@ public class exOne {
         Scanner iy = new Scanner(System.in);
         System.out.println("Введите второе число");
         float y = iy.nextFloat();
-        if ((z-x) < (z-y)) {
+        if ((z-x) < (z-y)) { 
             var = "первое";
             res = x;
         }
